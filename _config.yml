@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr.Jhilam Sinha Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,13 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr.Jhilam Sinha"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Links"
+  location         : "Sydney, Australia"
+  employer         : "University of New South Wales"
   uri              : # URL
-  email            : "none@example.org" 
+  email 1            : "j.sinha@unswalumni.com"
+  email 2            : "jhilam.wre@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
