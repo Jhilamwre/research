@@ -12,7 +12,7 @@ title                    : "Dr. Jhilam Sinha Homepage"
 title_separator          : "-"
 name                     : &name "Jhilam Sinha"
 description              : &description "personal description"
-url                      : https://jhilamwre.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://research.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jhilamwre/research/"
 
