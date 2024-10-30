@@ -6,11 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome to my personal homepage. I am a post-graduate researcher working in the field of hydrology. My  
+
 Education
 ------
-PhD - Civil and Environmental Engineering (2019-2024) University of New South Wales (UNSW), Sydney
-MTech - Water Resources Engineering and Management (2016-2018) Indian Institute of Technology (IIT), Guwahati
-BTech - Civil Engineering (2012-2016) Tezpur University
+-PhD - Civil and Environmental Engineering (2019-2024) University of New South Wales (UNSW), Sydney
+-MTech - Water Resources Engineering and Management (2016-2018) Indian Institute of Technology (IIT), Guwahati
+-BTech - Civil Engineering (2012-2016) Tezpur University
 
 Research Interests
 ------
