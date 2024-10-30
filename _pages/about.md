@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 Education
-======
+------
 PhD - Civil and Environmental Engineering (2019-2024) University of New South Wales (UNSW), Sydney
 MTech - Water Resources Engineering and Management (2016-2018) Indian Institute of Technology (IIT), Guwahati
 BTech - Civil Engineering (2012-2016) Tezpur University
 
 Research Interests
-======
+------
 1. Surface and sub-surface hydrology
 1. Hydro-climatology and climate change assessments 
 1. Socio-hydrology
@@ -22,7 +22,7 @@ Research Interests
 1. Remote sensing and hydrological modelling 
 
 Research Highlights 
-======
+------
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
