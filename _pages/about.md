@@ -10,20 +10,18 @@ Welcome to my personal homepage. I am a post-graduate researcher working in the 
 
 Education
 ------
-PhD - Civil and Environmental Engineering (2019-2024) University of New South Wales (UNSW), Sydney
-
-MTech - Water Resources Engineering and Management (2016-2018) Indian Institute of Technology (IIT), Guwahati
-
-BTech - Civil Engineering (2012-2016) Tezpur University
+* PhD - Civil and Environmental Engineering (2019-2024) University of New South Wales (UNSW), Sydney
+* MTech - Water Resources Engineering and Management (2016-2018) Indian Institute of Technology (IIT), Guwahati
+* BTech - Civil Engineering (2012-2016) Tezpur University
 
 Research Interests
 ------
-1. Surface and sub-surface hydrology
-1. Hydro-climatology and climate change assessments 
-1. Socio-hydrology
-1. Eco-hydrology
-1. Water sustainability and water management  
-1. Remote sensing and hydrological modelling 
+* Surface and sub-surface hydrology
+* Hydro-climatology and climate change assessments 
+* Socio-hydrology
+* Eco-hydrology
+* Water sustainability and water management  
+* Remote sensing and hydrological modelling 
 
 Research Highlights 
 ------
