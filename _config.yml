@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Jhilam Sinha Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jhilam Sinha"
 description              : &description "personal description"
