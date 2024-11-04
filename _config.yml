@@ -87,7 +87,7 @@ publication_category:
     title: 'Conference Posters'
 
 # Teaching Category - The following the list of teaching categories and their headings
-teaching_category:
+teachings_category:
   work:
     title: 'Work Experiences'
   services:
