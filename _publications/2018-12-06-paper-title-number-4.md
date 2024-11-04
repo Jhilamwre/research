@@ -3,7 +3,6 @@ title: "Spatiotemporal trends of PM2.5 concentrations using satellite data in Me
 collection: publications
 category: conferences1
 permalink: /publication/2018-12-06-paper-title-number-1
-#excerpt: 'This paper is about fixing template issue #693.'
 date: 2018-12-06
 venue: '3rd Indian International conference on air quality monitoring (IICAQM)'
 paperurl: 'http://academicpages.github.io/files/IICAQM-2018.pdf'
