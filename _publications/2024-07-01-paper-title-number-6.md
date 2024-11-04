@@ -1,0 +1,11 @@
+---
+title: "Characterizing satellite soil moisture drydown: A Bivariate Filtering Approach"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-07-01-paper-title-number-6
+date: 2024-07-01
+venue: 'Water Resources Research'
+citation: 'Sinha, J., Sharma, A., Marshall, L., & Kim, S. (2024). Characterizing satellite soil moisture drydown: A Bivariate Filtering Approach. Water Resources Research, 60(7), e2022WR034019.'
+---
+
+Drying of soil impacts land energy and water balance, influences the sustainability of vegetation growth, and modulates hydrological extremes including floods. While satellite soil moisture data are widely used for a range of environmental applications, systematic differences from regional in-situ data prevent their optimal use as key physical signatures (such as soil moisture recession, also termed drydown) are represented differently. This study investigates differences in drydowns from the Soil Moisture Active Passive (SMAP) level 4 product with reference to in-situ observations. A bivariate filtering alternative is proposed to minimize the disparity noted by modeling the relationship between the rate of drying and initial soil wetness and representing the same as in-situ. Considerable improvements are observed in the resulting SMAP soil moisture filtered estimates. Although the algorithm assumes spatial stationarity, improvements exist across different soil properties and climatic conditions, providing a parsimonious alternative to better capture the dynamics of soil moisture loss.
