@@ -5,7 +5,7 @@ category: conferences1
 permalink: /publication/2019-02-28-paper-title-number-1
 date: 2019-02-28
 venue: '34th MP Young Scientist Congress (MPYSC)'
-paperurl: 
+paperurl: 'http://academicpages.github.io/files/34thMPYSG.pdf' 
 citation: 'Sinha, J. (2019). Sensitivity of Annual Runoff to Precipitation in Madhya Pradesh, India. 34th MP Young Scientist Congress (MPYSC), 28 February-1 March 2019, M.P. Council of Science and Technology, Bhopal. '
 ---
 
