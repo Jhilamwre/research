@@ -1,0 +1,11 @@
+---
+title: "Hydrological sustainability of international virtual water trade"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-11-17-paper-title-number-5
+date: 2023-11-17
+venue: 'Environmental Research Letters'
+citation: 'Sinha, J., Sharma, A., & Marshall, L. (2023). Hydrological sustainability of international virtual water trade. Environmental Research Letters, 18(12), 124037.'
+---
+
+International virtual water (VW) trade helps to balance water stress across regions. However, it can be questioned whether such trade can remain sustainable as water resources are redistributed across regions resulting from changes in our climate. A conceptual framework to compare VW trade volumes with water fluxes within the water cycle is introduced. We evaluate the distribution of traded water surpluses and deficits associated with crop, animal, and industrial products over 157 countries and 182 global watersheds. About 7% of the countries are identified to conduct VW trade unsustainably. Regions within Africa, North America, central Asia, and Europe exhibit unfeasible VW trading resulting from higher appropriation of freshwater resources than availability influenced by precipitation and evaporation. Assessment at the watershed scale captures overexploitation at finer resolution, generally overlooked in country level analysis. An evaluation into the future reveals more watersheds becoming vulnerable to water storage depletion under future climate trends.
