@@ -23,7 +23,7 @@ Research Interests
 * <span style="font-size:18px"> Water sustainability and water management  
 * <span style="font-size:18px"> Remote sensing and hydrological modelling 
 
-Research Highlights 
+Media Highlights 
 ------
 * <span style="font-size:18px"> India Water Portal: [human activities reduce catchments climate resilience](http://www.indiawaterportal.org/articles/human-activities-reduce-catchments-climate-resilience)
 * <span style="font-size:18px"> Research Matters: [river catchments are drying too many too soon](https://researchmatters.in/news/india%E2%80%99s-river-catchments-are-drying-too-many-too-soon) 
