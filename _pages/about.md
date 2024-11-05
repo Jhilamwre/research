@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-size:18px"> Welcome to my personal homepage. I am a post-graduate researcher working in the field of hydrology. My  
+<span style="font-size:18px"> Welcome to my personal homepage. I am a post-graduate researcher working in the field of hydrology.  
 
 Education
 ------
