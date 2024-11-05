@@ -1,21 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Postdoctoral writing fellow in University of New South Wales, Sydney"
 collection: teaching
-category: services
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+category: work
+type: "Dr. Ashish Sharma - Professor, UNSW Sydney"
+permalink: /teaching/2023-work-2
+venue: "UNSW, Sydney"
+date: 2023-07-01
+location: "Sydney, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+From July to December 2023
