@@ -1,21 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Research Assistant in University of New South Wales, Sydney"
 collection: teaching
 category: work
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Dr. Andrew Dansie - Senior Lecturer, UNSW Sydney"
+permalink: /teaching/2023-spring-teaching-1
+venue: "UNSW, Sydney"
+date: 2023-09-01
+location: "Sydney, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+  From September to December 2023
