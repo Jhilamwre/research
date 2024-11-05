@@ -85,6 +85,8 @@ publication_category:
     title: 'Conference Presentations'
   conferences3:
     title: 'Conference Posters'
+  conferences4:
+    title: 'Talks'
 
 # Teaching Category - The following the list of teaching categories and their headings
 teaching_category:
