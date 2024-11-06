@@ -3,7 +3,6 @@ title: "Influences of local factors on long-term annual and intra-annual water b
 collection: publications
 category: conferences3
 permalink: /publication/2019-05-19-paper-title-number-1
-excerpt: 'This paper is about fixing template issue #693.'
 date: 2019-05-19
 venue: 'World Environmental and Water Resources Congress (EWRI-2019)'
 paperurl: 'http://academicpages.github.io/files/POSTER AGU_IPOSTER.pdf'
