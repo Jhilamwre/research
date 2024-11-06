@@ -2,6 +2,7 @@
 title: "Sustainability of Virtual Water Trade"
 collection: publications
 category: conferences3
+permalink: /publication/2022-12-12-conf-poster-2
 excerpt: 'Click the title to download'
 date: 2022-12-12
 venue: 'American Geophysical Union Fall Meeting (AGU-2022)'
