@@ -10,9 +10,9 @@ redirect_from:
 
 Education
 ------
-* <span style="font-size:18px"> PhD - Civil and Environmental Engineering (2019-2024) University of New South Wales (UNSW), Sydney
-* <span style="font-size:18px"> MTech - Water Resources Engineering and Management (2016-2018) Indian Institute of Technology (IIT), Guwahati
-* <span style="font-size:18px"> BTech - Civil Engineering (2012-2016) Tezpur University
+* <span style="font-size:18px"> PhD - Civil and Environmental Engineering (Sept, 2019- July, 2024) University of New South Wales (UNSW), Sydney
+* <span style="font-size:18px"> MTech - Water Resources Engineering and Management ( July, 2016- June, 2018) Indian Institute of Technology (IIT), Guwahati
+* <span style="font-size:18px"> BTech - Civil Engineering (July, 2012- June, 2016) Tezpur University
 
 Research Interests
 ------
