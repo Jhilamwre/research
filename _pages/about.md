@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-size:18px"> Welcome to my personal homepage. I am a post-graduate researcher working in the field of hydrology.  
+<span style="font-size:18px"> Welcome to my personal homepage. I am currently an Assistant Professor in the department of Civil Engineering in the Indian Institute of Technology Guwahati. My research bridges the interface between land surface processes and hydrological modeling, with a particular focus on soil moisture dynamics.  
 
 Education
 ------
@@ -16,12 +16,12 @@ Education
 
 Research Interests
 ------
-* <span style="font-size:18px"> Surface and sub-surface hydrology
-* <span style="font-size:18px"> Hydro-climatology and climate change assessments 
-* <span style="font-size:18px"> Socio-hydrology
-* <span style="font-size:18px"> Eco-hydrology
-* <span style="font-size:18px"> Water sustainability and water management  
-* <span style="font-size:18px"> Remote sensing and hydrological modelling 
+* <span style="font-size:18px"> Surface and vadose zone hydrology
+* <span style="font-size:18px"> Hydro-climatology 
+* <span style="font-size:18px"> Reservoir inflow and streamflow forecasting
+* <span style="font-size:18px"> Hydrological modelling and remote sensing
+* <span style="font-size:18px"> Water resources management and sustainability  
+* <span style="font-size:18px"> Socio-hydrology 
 
 Media Highlights 
 ------
