@@ -8,4 +8,4 @@ date: 2025-10-05
 venue: 'International Association of Hydrological Sciences Scientific Assembly (IAHS 2025)'
 citation: 'Sinha, J., Sharma, A. & Marshall, L. (2025). Reconstruction of Satellite Soil Moisture Series using Physical Processes. International Association of Hydrological Sciences Scientific Assembly (IAHS 2025), 05-10 October 2025, Roorkee, India.'
 ---
-You can download the poster from [here]()
+You can download the poster from [here](https://www.researchgate.net/publication/417398605_Reconstruction_of_Satellite_Soil_Moisture_Series_using_Physical_Processes)
